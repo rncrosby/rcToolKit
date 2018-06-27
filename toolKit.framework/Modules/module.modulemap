@@ -1,0 +1,6 @@
+framework module toolKit {
+  umbrella header "toolKit.h"
+
+  export *
+  module * { export * }
+}
